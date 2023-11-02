@@ -1,1 +1,1 @@
-# CvDl_VGG19_cifar10
+# CIFAR-10_Classification_using_PyTorch_VGG19
